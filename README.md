@@ -1,2 +1,5 @@
 # hello-world
-repository
+
+hi all,
+I like node js and angular js.
+install git.
